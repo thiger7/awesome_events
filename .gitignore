@@ -45,5 +45,5 @@ yarn-debug.log*
 yarn-debug.log*
 .yarn-integrity
 
-vendor/*
-node_modules/*
+vendor/
+node_modules/
